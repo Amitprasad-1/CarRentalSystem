@@ -43,26 +43,19 @@ Open the project in IntelliJ IDEA.
 Run Main.java.
 
 OR Run from Terminal
+
 javac src/Main.java
 java -cp src Main
 
 📋 Usage (Sample)
-markdown
-Copy
-Edit
 ===== Car Rental System =====
 1. Rent a Car
 2. Return a Car
 3. Exit
 Enter your choice:
+
 👤 Author
 Amit Prasad – GitHub Profile
-
-yaml
-Copy
-Edit
-
----
 
 ### 📍 How to Use This
 1. Create a file in your project root named **`README.md`**.
