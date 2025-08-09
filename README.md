@@ -38,7 +38,7 @@ CarRentalSystem/
 How to Run
 
 # Clone the repository
-git clone https://github.com/Amit Prasad-1/CarRentalSystem.git
+git clone https://github.com/AmitPrasad-1/CarRentalSystem.git
 cd CarRentalSystem
 
 # Open in IntelliJ IDEA and run Main.java
@@ -67,4 +67,4 @@ MIT License
 
 Author
 
-Your Name — https://github.com/YOUR_USERNAME
+Your Name — Amit Prasad
