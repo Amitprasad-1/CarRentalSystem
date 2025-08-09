@@ -16,7 +16,7 @@ A **console-based Car Rental System** built in Java that manages car availabilit
 - **IntelliJ IDEA** (recommended)
 - **Git & GitHub**
 
-Sample Link: https://drive.google.com/file/d/1xgAbl_5-PkOD1aG1Z6T1LZqNO7zm3Uab/view?usp=sharing
+Sample Link: https://drive.google.com/file/d/1Rk_xw1GAN7k86_Yqn6ZFYWO07egorDnr/view?usp=sharing
 
 
 
