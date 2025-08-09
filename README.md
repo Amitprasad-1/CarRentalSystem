@@ -1,70 +1,74 @@
-Car Rental System – Java Console Application
+# 🚗 Car Rental System – Java Console Application
 
-Overview
+## 📌 Overview
+A **console-based Car Rental System** built in Java that manages car availability, customer records, and rental transactions via an interactive menu.
 
-A console-based Car Rental System built in Java that manages car availability, customer records, and rental transactions via an interactive menu.
+---
 
-Features
+## ✨ Features
+- Rent available cars and track availability.
+- Return cars and remove active rentals.
+- Calculate rental cost based on number of days.
+- Store cars, customers, and rentals using `ArrayList`.
+- Simple menu-driven **CLI** for user interaction.
 
-Rent available cars and track availability.
+---
 
-Return cars and remove active rentals.
+## 🛠 Tech Stack
+- **Java** (OOP)
+- **Java Collections** (`ArrayList`)
+- **IntelliJ IDEA** (recommended)
+- **Git & GitHub**
 
-Calculate rental cost based on number of days.
+---
 
-Store cars, customers, and rentals using ArrayList.
-
-Simple menu-driven CLI for user interaction.
-
-
-Tech Stack
-
-Java (OOP)
-
-Java Collections (ArrayList)
-
-IntelliJ IDEA (recommended)
-
-Git & GitHub
-
-
-Project Structure
-
+## 📂 Project Structure
 CarRentalSystem/
 ├── src/
-│   └── Main.java              # All classes (Car, Customer, Rental, CarRentalSystem, Main)
+│ └── Main.java # Contains all classes (Car, Customer, Rental, CarRentalSystem, Main)
 └── README.md
 
-How to Run
 
-# Clone the repository
+---
+
+## 🚀 How to Run
+### Clone the repository
+```bash
 git clone https://github.com/AmitPrasad-1/CarRentalSystem.git
 cd CarRentalSystem
 
-# Open in IntelliJ IDEA and run Main.java
-# OR compile & run from terminal:
+Run in IntelliJ IDEA
+Open the project in IntelliJ IDEA.
+
+Run Main.java.
+
+OR Run from Terminal
 javac src/Main.java
 java -cp src Main
 
-Usage (sample)
-
+📋 Usage (Sample)
+markdown
+Copy
+Edit
 ===== Car Rental System =====
 1. Rent a Car
 2. Return a Car
 3. Exit
 Enter your choice:
+👤 Author
+Amit Prasad – GitHub Profile
 
-Notes
+yaml
+Copy
+Edit
 
-Classes are currently in a single Main.java file for simplicity; you can split them into separate files (one class per file) for better organization.
+---
 
-Consider marking immutable fields final and adding persistence (file/DB) if extending the project.
-
-
-License
-
-MIT License
-
-Author
-
-Your Name — Amit Prasad
+### 📍 How to Use This
+1. Create a file in your project root named **`README.md`**.
+2. Paste the above code into it.
+3. Commit and push to GitHub:
+   ```bash
+   git add README.md
+   git commit -m "Added README file"
+   git push
